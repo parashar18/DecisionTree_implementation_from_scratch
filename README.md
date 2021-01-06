@@ -1,9 +1,9 @@
 # DecisionTree_implementation_from_scratch
-Implemented the decision tree learning algorithm using 
+Implemented the decision tree learning algorithm using </br>
 1] Information gain heuristic 
 2] Variance impurity heuristic 
 
-Also implemented depth-based pruning by using maximum depth dmax as a hyper-parameter, from the following set: {5,10,15,20,50,100} and return best results.
+Also implemented depth-based pruning by using maximum depth dmax as a hyper-parameter, from the following set: {5,10,15,20,50,100} and return best results. 
 
 To Run code:
 write following line in CMD
