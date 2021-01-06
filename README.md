@@ -8,10 +8,10 @@ Also implemented depth-based pruning by using maximum depth dmax as a hyper-para
 To Run code: </br>
 python Decision_tree.py train validate test method pruning
 
-train= path of a training data set
-validate= path of a validation data set
-test= path of a testing data set
-method= "Entropy" or "Variance"
+train= path of a training data set </br>
+validate= path of a validation data set </br>
+test= path of a testing data set </br>
+method= "Entropy" or "Variance" </br>
 pruning= "0" for no pruning OR "preprune" for depth based pruning
 
 
